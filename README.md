@@ -10,7 +10,7 @@ Este projeto é uma implementação de um banco digital em Java. Ele permite cri
 
 - **Criar nova conta**: Permite a criação de contas correntes e poupança para novos clientes.
 - **Listar contas**: Exibe a lista de todas as contas criadas.
-Ainda vou adicionar os outros metodos no arquivo principal
+- Ainda vou adicionar os outros metodos no arquivo principal
 
 ### Modo Cliente
 
